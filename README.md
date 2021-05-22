@@ -1,2 +1,3 @@
-# movie_app
-영화 리스트를 볼 수 있는 App
+# Movie App 2021
+
+React JS Fundamentals Course 2021
